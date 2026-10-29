@@ -1,0 +1,16 @@
+# Installed packages and generated output
+node_modules/
+.expo/
+dist/
+build/
+coverage/
+
+# Local secrets; a template with dummy values may be committed
+.env
+.env.*
+!.env.example
+
+# Logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
